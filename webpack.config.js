@@ -30,5 +30,5 @@ module.exports = {
     extensions: ['.js', '.jsx']
   },
   // Enable source maps for easier debugging
-  devtool: 'source-map'
+  devtool: 'source-map' // Provides source maps for easier debugging
 };
