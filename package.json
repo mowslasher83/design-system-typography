@@ -1,0 +1,13 @@
+{
+  "name": "design-system-typography",
+  "version": "1.0.0",
+  "description": "Hệ thống thiết kế dành cho quản lý kiểu dáng chữ trong các ứng dụng web.",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "echo 'Chạy lệnh build ở đây'",
+    "test": "echo 'Chạy test ở đây'"
+  },
+  "keywords": ["typography", "design-system", "web"],
+  "author": "", 
+  "license": "MIT"
+}
