@@ -9,5 +9,9 @@
   },
   "keywords": ["typography", "design-system", "web"],
   "author": "Your Name Here", 
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/design-system-typography.git"
+  }
 }
